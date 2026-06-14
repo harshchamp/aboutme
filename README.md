@@ -28,10 +28,10 @@ I'm enthusiastic about building innovative solutions and tackling complex engine
 
 Currently exploring new opportunities to apply data-driven insights and build scalable solutions. Always interested in collaborating on interesting projects!
 
-## 📫 Let's Connect
+## 📫 Let's Connect **[My LinkedIn](https://www.linkedin.com/in/harsh-raj-6b3674128/)** 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
-**[My LinkedIn](https://www.linkedin.com/in/harsh-raj-6b3674128/)** 
+
 
 ---
 
