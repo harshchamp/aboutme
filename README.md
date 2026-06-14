@@ -12,11 +12,11 @@ I'm enthusiastic about building innovative solutions and tackling complex engine
 
 ## 📚 Featured Projects
 
-- **[A/B Testing Model](https://github.com/harshchamp/A-B-testing-Model)** - Statistical analysis and A/B testing implementations
+- **[A/B Testing Model](https://github.com/harshchamp/A-B-testing-Model)** - Statistical analysis and A/B testing implementations on Gaming data
 - **[IoT Sensor](https://github.com/harshchamp/IOT_Sensor)** - IoT sensor data collection and processing
-- **[Micro-Injection Moulding](https://github.com/harshchamp/Micro-Injection-Moulding)** - Manufacturing process optimization
-- **[Solar Hexagon](https://github.com/harshchamp/solar_hexagon)** - Solar energy analysis project
-- **[Pricing](https://github.com/harshchamp/Pricing)** - Pricing strategy models
+- **[Micro-Injection Moulding](https://github.com/harshchamp/Micro-Injection-Moulding)** - Micro Injection Moulding process optimization and state of art Ensemble Model use
+- **[Solar Hexagon](https://github.com/harshchamp/solar_hexagon)** - Solar energy analysis project for a startup
+- **[Pricing](https://github.com/harshchamp/Pricing)** - Pricing strategy models 
 
 ## 🛠️ Tech Stack
 
