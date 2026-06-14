@@ -20,9 +20,9 @@ I'm enthusiastic about building innovative solutions and tackling complex engine
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python, Jupyter Notebook
+- **Languages**: Python, SQL, Jupyter Notebook
 - **Tools**: Data Science, Machine Learning, Statistical Analysis
-- **Domains**: IoT, Manufacturing, E-commerce, Energy
+- **Domains**: IoT, Finance, Manufacturing, E-commerce, Energy
 
 ## 💡 What I'm Working On
 
