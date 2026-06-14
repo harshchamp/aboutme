@@ -31,6 +31,7 @@ Currently exploring new opportunities to apply data-driven insights and build sc
 ## 📫 Let's Connect
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss ideas!
+My LinkedIn - **(https://www.linkedin.com/in/harsh-raj-6b3674128/)** 
 
 ---
 
